@@ -1,7 +1,7 @@
-# capstone_game_suit
+# capstone_game_suite
 ![Screenshot 2024-01-22 231308](https://github.com/erlascot/capstone_game_suite/assets/146148624/b54b2809-f172-4920-8f5c-ae1cd92c0391)
 
-This is a basic collection of childhood games designed for a user to be able to play with ....................................tbd
+For this project I decided to put together a suite of games common among school children, often played with pen and paper. I chose to include four games, including hangman; tic tac toe; rock, paper, scissors; and a number guesser. I chose this as my project because I thought a single game would be too simple and I wanted to challenge myself. This challenge came from not only being able to switch between multiple games but also implementing a graphical interface for the user to interact with.
 
 # This Includes:
 
